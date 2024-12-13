@@ -2,8 +2,6 @@
 
 ## [**Download Oblivion Here**](https://mega.nz/file/xXNkUQJD#QCsnD4_DB09hTptpFk3UvJ2ipSvMSFcMxGDBkfG-gH0 )
 
-![Oblivion Logo](https://cdn.discordapp.com/attachments/1278801777780592641/1315306351727214693/H9BM728ckFliwAAAABJRU5ErkJggg.png?ex=6756edff&is=67559c7f&hm=e2e6315921ec6f1b746a6c38bdb89cf9565a07e61a8d240fd24a88a15e2eff3c)
-
 **STATUS:** 🟢 Active & ready to use
 
 Oblivion Executor is a powerful script manager and API designed for Roblox developers and players. This project provides an enhanced experience for running scripts and managing Roblox games while maintaining a secure and efficient approach.
